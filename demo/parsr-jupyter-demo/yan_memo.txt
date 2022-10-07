@@ -1,0 +1,2 @@
+client 3.0.0
+docker api 1.2.1
